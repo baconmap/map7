@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map2\/map.json#enter-point-left"
+                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map4\/map.json#enter-point-right"
+                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map4\/map.json#enter-point-left"
                 }],
          "type":"tilelayer",
          "visible":true,
