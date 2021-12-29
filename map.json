@@ -142,14 +142,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWEbsiteTrigger",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/nftkey.app\/ftm"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage",
